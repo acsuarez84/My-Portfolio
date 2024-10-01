@@ -1,4 +1,4 @@
-# My-Portfolio
+# Angely C. Suarez DeJesus
 Welcome to my porftfolio!
 
 <img align="left" src="https://github.com/user-attachments/assets/2f85a604-914d-416e-82b7-b02d8bdc7f25" width="200" height="200" style="float left"/>
