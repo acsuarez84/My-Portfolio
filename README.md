@@ -14,5 +14,4 @@ Other areas of interest are in the field of technical professional communication
   
 In 2024, we lost our team captain, Bob! He taught many things about riding, performance, and endurance! His leadership and contageous personality will always live in our hearts! Rest in peace Bob, our fierce leader! PLEASE NOTE: I am NOT promoting donations to the association through my portfolio!!</p>
 
-# PHOTOGRAPHY FUN
-<img align="left" src="https://github.com/user-attachments/assets/a86c16dd-55ac-4c0d-972f-7e04f2a138ec" width="200" height="250" style="float left"/>
+
