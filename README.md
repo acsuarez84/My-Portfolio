@@ -7,6 +7,6 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 
 Other areas of interest are in the field of technical professional communication, digital media, and digital humanities.</p>
 
-<h1>IN HONOR OF...</h1>
+# IN HONOR OF...
 <div> My First 50-Mile Ride </div>
 <img align="left" src="https://github.com/user-attachments/assets/a86c16dd-55ac-4c0d-972f-7e04f2a138ec" width="150" height="200" style="float left"/>
